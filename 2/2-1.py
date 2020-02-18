@@ -6,5 +6,3 @@ print (counter)
 print (miles)
 print (name)
 
-a = 'abcdefg'
-print(a[-1:-2]);
